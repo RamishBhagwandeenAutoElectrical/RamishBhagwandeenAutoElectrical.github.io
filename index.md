@@ -1,4 +1,4 @@
-## Ramish Bhawandeen Auto electrical
+## Ramish Bhawandeen Auto Electrical
 
 We are tradesmen that are specialized in electrical wiring of motor vehicles. We do installation of new electrical components, maintenance and repair of existing electrical components, troubleshooting and much more.
 We are located at 562-3 Southern Main Road Chase Village at the back of Bhagwandeen compound. You also get our location at https://goo.gl/maps/eLG3ReSuLZGH9Hyr6
