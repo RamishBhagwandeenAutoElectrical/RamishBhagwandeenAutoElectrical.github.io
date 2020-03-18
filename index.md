@@ -5,7 +5,7 @@ We are tradesmen that are specialized in electrical wiring of motor vehicles. We
 
 # NOTICES
 ```markdown
-                                                  No Notices
+            No Notices
 ```
 
 ## Brands
@@ -70,8 +70,8 @@ TOYOTA HIACE ALTERNATOR PULLEY
 TOYOTA HILUX RECTIFIRE
 TOYOTA COROLLA RECTIFIRE
 
-Please note that we may have products that
-are not currently listed above.
+Please note that we may have products 
+that are not currently listed above.
 ```
 
 
