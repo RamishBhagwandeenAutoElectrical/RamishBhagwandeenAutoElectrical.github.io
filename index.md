@@ -4,8 +4,20 @@ We are tradesmen that are specialized in electrical wiring of motor vehicles. We
 
 
 # NOTICES
-```markdown
-            No Notices
+```markdown 
+#Temporary Closure.
+
+**Mar 30 – Apr 18**
+*To help with the battle against the 
+spread of COVID-19, we have made the
+decision to temporarily stop operations
+until 18/03/2020.
+
+We apologize for the inconvenience caused
+by this action. However, we feel it is 
+the right decision to protect our 
+employees and our customers from this 
+virus.
 ```
 
 ## Brands
