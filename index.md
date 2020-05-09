@@ -5,18 +5,24 @@ We are tradesmen that are specialized in electrical wiring of motor vehicles. We
 
 # NOTICES
 ```markdown 
-**TEMPORARY CLOSURE.**
-March 30 – April 18
-To help with the battle against the 
-spread of COVID-19, we have made the
-decision to temporarily stop operations
-until 18/03/2020.
+**PARTIAL OPENING.**
+There will be a PARTIAL OPENING
+of the Garage begining on 11th April.
+Our new opening hours will be 8am - 12pm
+Monday - Saturday. 
 
-We apologize for the inconvenience caused
-by this action. However, we feel it is 
-the right decision to protect our 
-employees and our customers from this 
-virus.
+We recommend to make an apointment at
+least 24hrs before arrival. We will
+be facilitating WALK-IN customers,
+however, piority will be given to
+individuals with an appointment
+
+To make appointments call:
+1(868)766-4996 during the hours
+8am - 8pm.
+
+We do apologize for the inconvenience
+caused by this action.
 ```
 
 ## Brands
