@@ -5,7 +5,7 @@ We are tradesmen that are specialized in electrical wiring of motor vehicles. We
 
 # NOTICES
 ```markdown 
-**REOPENING OPENING.**
+**REOPENING.**
 We are delighted to announce that we are 
 officially reopened for business. 
 However, we are limiting the amount of 
