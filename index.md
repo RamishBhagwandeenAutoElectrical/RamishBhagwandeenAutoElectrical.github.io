@@ -6,23 +6,19 @@ We are tradesmen that are specialized in electrical wiring of motor vehicles. We
 # NOTICES
 ```markdown 
 **PARTIAL OPENING.**
-There will be a PARTIAL OPENING
-of the Garage begining on 11th April.
-Our new opening hours will be 8am - 12pm
-Monday - Saturday. 
+We are delighted to announce that we are 
+officially reopened for business. 
+However, we are limiting the amount of 
+customers inside the garage to 5 at a
+time.
 
-We recommend to make an apointment at
-least 24hrs before arrival. We will
-be facilitating WALK-IN customers,
-however, piority will be given to
-individuals with an appointment
+Our original working hours still stand i.e. 
+Monday , Tuesday, Wednesday, 
+Friday (8:00am - 4:30pm), 
+Saturday (7:30am - 2:00pm)
 
-To make appointments call:
-1(868)766-4996 during the hours
-8am - 8pm.
-
-We do apologize for the inconvenience
-caused by this action.
+We still accepting appointments at 
+1(868)766-4996
 ```
 
 ## Brands
