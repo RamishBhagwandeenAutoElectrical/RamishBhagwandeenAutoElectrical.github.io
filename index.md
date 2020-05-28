@@ -13,11 +13,8 @@ customers inside the garage to 5 at a
 time.
 
 Our original working hours still stand i.e. 
-Monday , Tuesday, Wednesday, 
-Friday (8:00am - 4:30pm), 
-Saturday (7:30am - 2:00pm)
 
-We still accepting appointments at 
+We are accepting appointments at 
 1(868)766-4996
 ```
 
