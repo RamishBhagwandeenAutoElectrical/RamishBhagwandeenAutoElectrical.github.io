@@ -12,7 +12,7 @@ However, we are limiting the amount of
 customers inside the garage to 5 at a
 time.
 
-Our original working hours still stand i.e. 
+Our original working hours still stand 
 
 We are accepting appointments at 
 1(868)766-4996
