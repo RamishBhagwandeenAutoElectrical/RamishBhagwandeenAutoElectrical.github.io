@@ -35,7 +35,7 @@ Public Holidays    (CLOSED)
 ```
 
 
-## Auto Electrical Products[.](https://bit.ly/2XyhlFF)
+## [Auto Electrical Products](https://bit.ly/2XyhlFF)
 ```markdown
 **FORD**
 FORD RANGER ALTERNATOR PULLEY
