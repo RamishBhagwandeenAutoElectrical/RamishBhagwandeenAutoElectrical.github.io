@@ -5,17 +5,30 @@ We are tradesmen that are specialized in electrical wiring of motor vehicles. We
 
 # NOTICES
 ```markdown 
-**REOPENING.**
-We are delighted to announce that we are 
-officially reopened for business. 
-However, we are limiting the amount of 
-customers inside the garage to 5 at a
-time.
-
-Our original working hours still stand 
+**LIMITED OPERATIONS**
+ Dear valued customers, due to
+ recent Covid19 events, management
+ has decided to make the following changes:
+ 
+ 1) Opening hours are now from 8 am - 3pm
+    Monday-Wednesday & Friday-Saturday.
+ 2) Persons are encouraged to make an
+    appointment before coming at least
+    2 hours in advance. We would be
+    accepting walk-in customers however
+    priority may be given to those with
+    appointments.
+ 3) There will be no more than 3 
+    customers allowed at a time 
+    in the garage.
+ 4) Customers must sign logbook upon
+    entry into the garage.
 
 We are accepting appointments at 
 1(868)766-4996
+or
+ramishautoelectrical@gmail.com
+
 ```
 
 ## Brands
@@ -24,6 +37,9 @@ We are accepting appointments at
 
 ## Opening Hours
 ```markdown
+SEE NOTICES IF THERE ARE ANY SHORT-TERM
+CHANGES TO OUR WORKING HOURS.
+
 Monday             (8:00am to 4:30pm)
 Tuesday            (8:00am to 4:30pm)
 Wedensday          (8:00am to 4:30pm)
