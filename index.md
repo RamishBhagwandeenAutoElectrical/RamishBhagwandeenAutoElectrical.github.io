@@ -1,6 +1,9 @@
-![Logo](/images/logo.PNG)
+<p align="center"> 
+  <img width="342" height="436" src="https://github.com/RamishBhagwandeenAutoElectrical/RamishBhagwandeenAutoElectrical.github.io/blob/master/images/Ramish%20Bhagwandeen%20label.png">
+</p>
 
 We are tradesmen that are specialized in electrical wiring of motor vehicles. We do installation of new electrical components, maintenance and repair of existing electrical components, troubleshooting, sale of auto electrical components and much more. We are located at 562-3 Southern Main Road Chase Village at the back of Bhagwandeen compound. You also get our location at [here](https://goo.gl/maps/eLG3ReSuLZGH9Hyr6) or call us at 1(868)766-4996.
+
 
 
 # NOTICES
@@ -31,8 +34,11 @@ ramishautoelectrical@gmail.com
 
 ```
 
+
+
 ## Brands
 ![Brands](/images/brands.jpg)
+
 
 
 ## Opening Hours
@@ -51,34 +57,87 @@ Public Holidays    (CLOSED)
 ```
 
 
+
 ## [Auto Electrical Products](https://bit.ly/2XyhlFF)
+
+<p align="left"> 
+  <img width="267" height="102" src="https://github.com/RamishBhagwandeenAutoElectrical/RamishBhagwandeenAutoElectrical.github.io/blob/master/images/Ford.png">
+</p>
+
 ```markdown
-**FORD**
 FORD RANGER ALTERNATOR PULLEY
 
-**HONDA**
-HONDA CRV RECTIFIRE
+```
 
-**HYUNDAI**
+
+<p align="left"> 
+  <img width="267" height="102" src="https://hyperpix.net/wp-content/uploads/2020/07/honda-logo-font-free-download-856x484.jpg">
+</p>
+
+```markdown
+HONDA CIVIC STARTER SOLENOID
+HONDA CIVIC RECTIFIRE
+HONDA CIVIC REGULATOR
+HONDA CRV RECTIFIRE
+HONDA CRV REGULATOR
+HONDA CRV STARTER SOLENOID
+
+```
+
+
+<p align="left"> 
+  <img width="267" height="51" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/1200px-Hyundai_Motor_Company_logo.svg.png">
+</p>
+
+```markdown
 HYUNDAI ELANTRA ALTERNATOR
+HYUNDAI REGULATOR
 HYUNDAI TUCSON ALTERNATOR PULLEY
 
-**KIA**
+```
+
+
+<p align="left"> 
+  <img width="267" height="51" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/kia-motors-logo-freelogovectors.net_.png">
+</p>
+
+```markdown
 KIA K2700 BENDIX DRIVE
 KIA K2700 REGULATOR
 
-**MAZDA**
+```
+
+
+<p align="left"> 
+  <img width="134" height="102" src="https://logodownload.org/wp-content/uploads/2019/11/mazda-logo-1.png">
+</p>
+
+```markdown
 MAZDA BT-50 ALTERNATOR PULLEY
 MAZDA BT-50 REGULATOR
 
-**MITSUBISHI**
+```
+
+
+<p align="left"> 
+  <img width="267" height="102" src="https://purepng.com/public/uploads/large/purepng.com-mitsubishi-logomitsubishimitsubishi-groupmitsubishi-automobilesmitsubishi-logo-1701527515646xfkuq.png">
+</p>
+
+```markdown
 MITSUBUSHI L200, L300 ALTERNATOR
 MITSUBISHI L200, L300 ALTERNATOR OIL SEAL
 MITSUBUSHI L200, L300 REGULATOR
 MITSUBUSHI L200, L300 RECTIFIRE
 MITSUBUSHI L200, L300 STARTER SOLENOID
 
-**NISSAN**
+```
+
+
+<p align="left"> 
+  <img width="180" height="102" src="https://logos-world.net/wp-content/uploads/2020/04/Nissan-Logo.png">
+</p>
+
+```markdown
 NISSAN E24 STARTER SOLENOID
 NISSAN E24 REGULATOR
 NISSAN E24 RECTIFIRE
@@ -90,7 +149,14 @@ NISSAN NAVARA ALTERNATOR PULLEY
 NISSAN STARTER SOLENOID
 NISSAN X-TRAIL ALTERNATOR PULLEY
 
-**TOYOTA**
+```
+
+
+<p align="left"> 
+  <img width="267" height="102" src="https://logos-world.net/wp-content/uploads/2020/04/Toyota-Logo.png">
+</p>
+
+```markdown
 TOYOTA CAMRY BRUSHES WITH HOLDER
 TOYOTA CAMRY SOLENOID
 TOYOTA COROLLA, NZE RECTIFIRE
@@ -107,7 +173,14 @@ TOYOTA RAV4 HIGH AMPERAGE RECTIFIRE
 TOYOTA NOAH ALTERNATOR PULLEY
 TOYOTA VOXY ALTERNATOR PULLEY
 
-**UNIVERSAL**
+```
+
+
+<p align="left"> 
+  <img width="267" height="102" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VTgGe9Y-YH18KhU_-vPbF9wk_-ld88YD8Q&usqp=CAU">
+</p>
+
+```markdown
 5-PIN RELAY
 5-PIN RELAY JACK
 CAPLESS BULB
