@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img width="342" height="436" src="https://github.com/RamishBhagwandeenAutoElectrical/RamishBhagwandeenAutoElectrical.github.io/blob/master/images/Ramish%20Bhagwandeen%20label.png">
+  <img width="342" height="436" src="/images/Ramish_Bhagwandeen_label.png">
 </p>
 
 We are tradesmen that are specialized in electrical wiring of motor vehicles. We do installation of new electrical components, maintenance and repair of existing electrical components, troubleshooting, sale of auto electrical components and much more. We are located at 562-3 Southern Main Road Chase Village at the back of Bhagwandeen compound. You also get our location at [here](https://goo.gl/maps/eLG3ReSuLZGH9Hyr6) or call us at 1(868)766-4996.
@@ -71,7 +71,7 @@ FORD RANGER ALTERNATOR PULLEY
 
 
 <p align="left"> 
-  <img width="267" height="102" src="https://hyperpix.net/wp-content/uploads/2020/07/honda-logo-font-free-download-856x484.jpg">
+  <img width="267" height="102" src="/images/honda-logo-font-free-download-856x484.jpg">
 </p>
 
 ```markdown
@@ -86,7 +86,7 @@ HONDA CRV STARTER SOLENOID
 
 
 <p align="left"> 
-  <img width="267" height="51" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/1200px-Hyundai_Motor_Company_logo.svg.png">
+  <img width="267" height="51" src="/images/1200px-Hyundai_Motor_Company_logo.svg.png">
 </p>
 
 ```markdown
@@ -98,7 +98,7 @@ HYUNDAI TUCSON ALTERNATOR PULLEY
 
 
 <p align="left"> 
-  <img width="267" height="51" src="https://cdn.freelogovectors.net/wp-content/uploads/2021/02/kia-motors-logo-freelogovectors.net_.png">
+  <img width="267" height="51" src="/images/kia-motors-logo-freelogovectors.net_.png">
 </p>
 
 ```markdown
@@ -109,7 +109,7 @@ KIA K2700 REGULATOR
 
 
 <p align="left"> 
-  <img width="134" height="102" src="https://logodownload.org/wp-content/uploads/2019/11/mazda-logo-1.png">
+  <img width="134" height="102" src="/images/mazda-logo-1.png">
 </p>
 
 ```markdown
@@ -120,7 +120,7 @@ MAZDA BT-50 REGULATOR
 
 
 <p align="left"> 
-  <img width="267" height="102" src="https://purepng.com/public/uploads/large/purepng.com-mitsubishi-logomitsubishimitsubishi-groupmitsubishi-automobilesmitsubishi-logo-1701527515646xfkuq.png">
+  <img width="267" height="102" src="/images/purepng.com-mitsubishi-logomitsubishimitsubishi-groupmitsubishi-automobilesmitsubishi-logo-1701527515646xfkuq.png">
 </p>
 
 ```markdown
@@ -134,7 +134,7 @@ MITSUBUSHI L200, L300 STARTER SOLENOID
 
 
 <p align="left"> 
-  <img width="180" height="102" src="https://logos-world.net/wp-content/uploads/2020/04/Nissan-Logo.png">
+  <img width="180" height="102" src="/images/Nissan-Logo.png">
 </p>
 
 ```markdown
@@ -153,7 +153,7 @@ NISSAN X-TRAIL ALTERNATOR PULLEY
 
 
 <p align="left"> 
-  <img width="267" height="102" src="https://logos-world.net/wp-content/uploads/2020/04/Toyota-Logo.png">
+  <img width="267" height="102" src="/images/Toyota-Logo.png">
 </p>
 
 ```markdown
@@ -177,7 +177,7 @@ TOYOTA VOXY ALTERNATOR PULLEY
 
 
 <p align="left"> 
-  <img width="267" height="102" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VTgGe9Y-YH18KhU_-vPbF9wk_-ld88YD8Q&usqp=CAU">
+  <img width="267" height="102" src="/images/images.png">
 </p>
 
 ```markdown
