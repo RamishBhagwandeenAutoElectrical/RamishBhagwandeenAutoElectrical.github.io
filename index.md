@@ -61,7 +61,7 @@ Public Holidays    (CLOSED)
 ## [Auto Electrical Products](https://bit.ly/2XyhlFF)
 
 <p align="left"> 
-  <img width="267" height="102" src="https://github.com/RamishBhagwandeenAutoElectrical/RamishBhagwandeenAutoElectrical.github.io/blob/master/images/Ford.png">
+  <img width="267" height="102" src="/images/Ford.png">
 </p>
 
 ```markdown
